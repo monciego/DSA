@@ -29,11 +29,15 @@
   - remove = dequeue, poll()
   - examine = element(), peek()
 
-    **Uses of stacks?**
+    **Uses of queues?**
 
     1. Keyboard buffer (letters should appear on the screen in order they're pressed)
     2. Printer Queue (print jobs should be completed in order)
     3. Used in Linkedlists, PriorityQueues, Breadth-first search
+
+- **Priority Queues 🎟️**
+
+  - First In First Out (FIFO) data structure that serves elements with the highest priorities first before elements with lower priority
 
 ---
 
